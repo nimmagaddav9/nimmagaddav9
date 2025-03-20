@@ -1,78 +1,30 @@
-# Vijay Nimmagadda
-**Senior Full Stack Developer**  
-📞 +1-336-543-7260 | ✉️ nimmagaddav9@gmail.com  
-🌍 Austin, Texas, USA  
-[LinkedIn](https://linkedin.com/in/nimmagaddav9)
+<h1 align="center">Hello 👋, I'm Vijay Nimmagadda</h1>
+<h3 align="center">A passionate Senior Full Stack developer from Austin, TX</h3>
 
----
+- 🔭 I’m currently working on [United Airlines](https://www.united.com/en/us)
 
-## About Me
-I am a Senior Full Stack UI Developer with over 12+ years of experience in creating user-centric, responsive web applications. My expertise spans across a wide range of technologies including **JavaScript, Angular, ReactJS, Redux, NodeJS, Typescript, and Bootstrap**. I have extensive experience in API integration and have worked on various application architectures, including **E-Commerce, B2B, and Distributed Applications**. I am skilled in managing large projects in **Agile** environments, working collaboratively with cross-functional teams to build robust, scalable solutions.
+- 🌱 I’m currently learning **AI and Backend.**
 
----
+- 👯 I’m looking to collaborate on **on projects that involve both frontend and backend development, where we can leverage modern web technologies to build scalable, user-friendly applications.**
 
-## Skills
+- 🤝 I’m looking for help with **my side projects.**
 
-### Tools
-- **Design**: Figma, Sketch, Invision, Zeplin, Miro
-- **Version Control**: Git, SVN
-- **Others**: NVDA
+- 👨‍💻 All of my projects are available at [https://github.com/nimmagaddav9/portfolio-website](https://github.com/nimmagaddav9/portfolio-website)
 
-### Development Tools
-- **Editors**: Visual Studio Code, IntelliJ IDEA
+- 💬 Ask me about **react, any tech-related stuff.**
 
-### Technical Skills
-- **Languages & Frameworks**: HTML5, CSS3, JavaScript, jQuery, ReactJS, Redux, Angular, AngularJS, NodeJS, SpringBoot, Java, J2EE
-- **Libraries & Tools**: NPM, HighCharts JS, Material-UI (MUI), Twitter Bootstrap, Chrome DevTools, GitHub, ADA Compliance, IBM Websphere
-- **Testing**: Karma, Jasmine
-- **CI/CD**: Jenkins, Bamboo
+- 📫 How to reach me **nimmagaddav9@gmail.com**
 
----
+- 📄 Know about my experiences [https://splendorous-griffin-1c4c31.netlify.app/Vijay_Nimmagadda_Resume.pdf](https://splendorous-griffin-1c4c31.netlify.app/Vijay_Nimmagadda_Resume.pdf)
 
-## Education
-- **Master's in Computer Science** | University of Houston-Clear Lake (December 2015)
-- **Bachelor's in Computer Science** | Koneru Lakshmaiah University (May 2013)
+- ⚡ Fun fact **I spend every day listening to songs.**
 
----
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+<a href="https://linkedin.com/in/nimmagaddav9" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="nimmagaddav9" height="30" width="40" /></a>
+</p>
 
-## Work Experience
+<h3 align="left">Languages and Tools:</h3>
+<p align="left"> <a href="https://angular.io" target="_blank" rel="noreferrer"> <img src="https://angular.io/assets/images/logos/angular/angular.svg" alt="angular" width="40" height="40"/> </a> <a href="https://angular.io" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/angularjs/angularjs-original-wordmark.svg" alt="angularjs" width="40" height="40"/> </a> <a href="https://aws.amazon.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="aws" width="40" height="40"/> </a> <a href="https://babeljs.io/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/babeljs/babeljs-icon.svg" alt="babel" width="40" height="40"/> </a> <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.chartjs.org" target="_blank" rel="noreferrer"> <img src="https://www.chartjs.org/media/logo-title.svg" alt="chartjs" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://d3js.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/d3js/d3js-original.svg" alt="d3js" width="40" height="40"/> </a> <a href="https://www.docker.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/> </a> <a href="https://expressjs.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="40" height="40"/> </a> <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://graphql.org" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/graphql/graphql-icon.svg" alt="graphql" width="40" height="40"/> </a> <a href="https://gulpjs.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/gulp/gulp-plain.svg" alt="gulp" width="40" height="40"/> </a> <a href="https://heroku.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/heroku/heroku-icon.svg" alt="heroku" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.invisionapp.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/invisionapp/invisionapp-icon.svg" alt="invision" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.jenkins.io" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/jenkins/jenkins-icon.svg" alt="jenkins" width="40" height="40"/> </a> <a href="https://jestjs.io" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/jestjsio/jestjsio-icon.svg" alt="jest" width="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://www.microsoft.com/en-us/sql-server" target="_blank" rel="noreferrer"> <img src="https://www.svgrepo.com/show/303229/microsoft-sql-server-logo.svg" alt="mssql" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://nextjs.org/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/nextjs-2.svg" alt="nextjs" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://www.oracle.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/oracle/oracle-original.svg" alt="oracle" width="40" height="40"/> </a> <a href="https://postman.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://reactnative.dev/" target="_blank" rel="noreferrer"> <img src="https://reactnative.dev/img/header_logo.svg" alt="reactnative" width="40" height="40"/> </a> <a href="https://redux.js.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redux/redux-original.svg" alt="redux" width="40" height="40"/> </a> <a href="https://sass-lang.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sass/sass-original.svg" alt="sass" width="40" height="40"/> </a> <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/> </a> <a href="https://vuejs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vuejs/vuejs-original-wordmark.svg" alt="vuejs" width="40" height="40"/> </a> <a href="https://webpack.js.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/d00d0969292a6569d45b06d3f350f463a0107b0d/icons/webpack/webpack-original-wordmark.svg" alt="webpack" width="40" height="40"/> </a> </p>
 
-### Senior Full Stack UI Developer @ United Airlines (December 2022 - Present)
-- Led the **React Migration Team** to migrate features on **united.com**, ensuring compliance with **Accessibility guidelines**.
-- Developed and managed web applications using **ReactJS**, **Redux-Saga**, and **ATMOS** frameworks.
-- Collaborated with product owners to design and implement features for **MyAccount**, **Miles-Pooling**, **TSA Precheck**, and more.
-- Worked in Agile sprints to build and deploy applications on **united.com** based on requirements in **Jira**.
-
-### Senior Full Stack User Interface Engineer @ Visa Inc. (December 2020 - November 2022)
-- Focused on building and remediating modules for **ATX-A11y Accelerators** to ensure ADA compliance in various applications like **Account Management** and **Analytics**.
-- Developed features across several modules, including **Account Information**, **Recurring Billing**, and **Token Management**, ensuring high-quality user experiences.
-- Collaborated with cross-functional teams to complete stories within sprint deadlines.
-
-### Front-End UI/UX Developer @ Capital Group (August 2018 - November 2020)
-- Developed interactive data visualizations for **Asset-Mix**, **Income Objective**, and more using **ReactJS** and **Material-UI**.
-- Supported the deployment of **RPAM** and **Davis** projects, integrating them with **AWS** and ensuring responsive, user-friendly designs.
-
-### UI/UX Developer @ Cerner Corporation (December 2017 - August 2018)
-- Designed and implemented features for **Health online** application, using **Angular**, **ReactJS**, and **TypeScript**.
-- Involved in all phases of the **Agile SDLC**, contributing to development, testing, and deployment.
-
-### Front-End Engineer @ Office Depot (September 2014 - November 2017)
-- Developed **Web UI** for merchandising systems using **HTML**, **CSS**, **JavaScript**, **JSP**, and **AJAX**.
-- Worked on interactive, browser-compatible user interfaces and followed **W3C Web Standards**.
-
-### UI/UX Engineer @ Satinos Technologies Pvt. Ltd. (January 2013 - August 2014)
-- Designed and developed responsive websites and user interaction screens using **HTML**, **CSS**, **JavaScript**, and **AJAX**.
-- Implemented **responsive design** for mobile devices and used **jQuery** for server-side interactions.
-
----
-
-## Let's Connect!
-I'm always open to discussing **innovative technologies**, **user experience**, and **collaborative development**. Feel free to reach out via [LinkedIn](https://linkedin.com/in/nimmagaddav9) or email me at **nimmagaddav9@gmail.com**.
-
----
-
-## GitHub Stats
-![Vijay's GitHub Stats](https://github-readme-stats.vercel.app/api?username=nimmagaddav9&show_icons=true&hide_title=true&count_private=true&hide=prs&theme=radical)
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=nimmagaddav9&layout=compact&theme=radical)
-
+<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=nimmagaddav9&show_icons=true&locale=en&layout=compact" alt="nimmagaddav9" /></p>
