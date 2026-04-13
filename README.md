@@ -1,7 +1,7 @@
 <h1 align="center">Hello 👋, I'm Vijay Nimmagadda</h1>
 <h3 align="center">A passionate Senior Full Stack developer from Austin, TX</h3>
 
-- 🔭 I’m currently working on [United Airlines](https://www.united.com/en/us)
+- 🔭 I’m currently working on [First Citizens Bank](https://connect.svb.com/)
 
 - 🌱 I’m currently learning **AI and Backend.**
 
